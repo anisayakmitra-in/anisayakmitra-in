@@ -23,7 +23,7 @@
   <a href="https://github.com/anisayakmitra-in" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=anisayakmitra-in&label=Profile+Views&color=00C853&style=flat-square" alt="Profile Views" />
+<img src="https://views.igorkowalczyk.dev/api/badge/anisayakmitra-in?style=flat&color=00FF66&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
