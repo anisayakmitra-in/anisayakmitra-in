@@ -110,11 +110,9 @@ fun_fact:           "Reading case law by day, debugging async Rust lifetimes by 
   <img src="https://streak-stats.demolab.com/?user=anisayakmitra-in&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Streak Stats" />
 </p>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24px" /> **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anisayakmitra-in&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=00FF66&line=00FF66&point=ffffff" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img alt="Anisayak's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/anisayakmitra-in?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false" />
+</div>
 
 ---
 
